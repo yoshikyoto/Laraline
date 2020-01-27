@@ -1,0 +1,16 @@
+{
+    "name": "yoshikyoto/laraline",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yoshikyoto",
+            "email": "stb_yoshiyuki-s@hotmail.co.jp"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Laraline\\": "src/"
+        }
+    }
+}
